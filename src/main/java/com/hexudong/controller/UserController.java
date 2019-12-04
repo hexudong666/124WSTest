@@ -13,7 +13,8 @@ public class UserController {
 	private UserService service;
 
 	public static void main(String[] args) {
-		System.out.println("hello word");
+		System.out.println("hello word"+"vhbj");
+		//修改的东西
 	}
 	
 }
